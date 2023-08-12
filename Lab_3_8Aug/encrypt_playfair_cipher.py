@@ -1,4 +1,4 @@
-from pprint import pprint
+from pprint import pprint  # for pretty printing
 
 key = input("Enter key: ")
 plain_text = input("Enter text: ")
